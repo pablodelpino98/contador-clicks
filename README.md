@@ -10,9 +10,9 @@ Este es un ejercicio práctico de un contador de clicks. Un botón para contar c
 
 ## 🛠️ Tecnologías utilizadas
 
-- **React**: Biblioteca para la construcción de interfaces de usuario.
-- **CSS**: Para el estilizado de la calculadora.
-- **JavaScript**: Para la lógica de operaciones matemáticas.
+- **React**
+- **CSS**
+- **JavaScript**
 
 ## 📂 Instalación y uso
 
