@@ -18,7 +18,7 @@ Este es un ejercicio práctico de un contador de clicks. Un botón para contar c
 
 1. Clona este repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tu-usuario/contador-clicks.git
+   git clone https://github.com/pablodelpino98/contador-clicks.git
    ```
 2. Accede al directorio del proyecto:
    ```sh
